@@ -1,2 +1,2 @@
 # hello-world
-learning to code
+learning to code / multiverse data fellowship apprentice
